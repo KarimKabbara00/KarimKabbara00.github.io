@@ -424,7 +424,6 @@ section {
   display: inline;
   background: none;
   border-radius: 0;
-  font-size: 20px;
 }
 
 .skills .progress .skill {
@@ -435,6 +434,7 @@ section {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #050d18;
+  font-size: 20px;
 }
 
 .skills .progress .skill .val {
