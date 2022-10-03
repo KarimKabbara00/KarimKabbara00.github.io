@@ -980,6 +980,19 @@ section {
   font-size: 13px;
 }
 
+.contact .php-email-form .error-message {
+  display: none;
+  color: #FFFFFF;
+  background: #FFFFFF;
+  text-align: left;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .error-message br+br {
+  margin-top: 25px;
+}
+
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
