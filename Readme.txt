@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is a GitHub Pages website that tells you about who I am!
 
-Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
